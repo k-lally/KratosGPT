@@ -1,5 +1,5 @@
 # KratosGPT
-
+![4xJ8XB3bi888QTLZYdl7Oi0s](https://github.com/k-lally/KratosGPT/assets/162082543/0b0f0541-6d89-4b89-a314-731fcfa06a3d)
 ## Overview
 This is KratosGPT! This project leverages artificial intelligence (AI) to play God of War: Ragnarok. By utilizing a LLM agent, an image captioning model, and YOLOv8 for object detection, this AI system controls the main character, Kratos, guiding his actions within the game. Users can try out this functionality for free using a Cohere trial API Key. This README provides comprehensive instructions on implementing this AI system in any game, promising an adventure filled with excitement and triumph.
 
